@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi everyone I am Kirti Singh, Test Engineer Analyst 👋
+> 🌱 I’m currently learning **Web Devlopment** with NEOGCAMP.
+
 
 <!--
 **Kirti1402/Kirti1402** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
