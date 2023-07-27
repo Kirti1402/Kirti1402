@@ -1,10 +1,10 @@
 Hi 👋 My name is Kirti Singh
 ============================
 
-Test Engineer Analyst
+Test Automation Engineer
 ---------------------
 
-I have a total 3.5 years of experience in testing. Currently, I am learning HTML, CSS, and Javascript for Web Development with help of NEOG CAMP.
+I have a total of 4 years of experience in testing. Currently, I am learning HTML, CSS, JavaScript, and React JS for Web Development with the help of NEOG CAMP.
 
 * 🌍  I'm based in Bangalore, India
 * ✉️  You can contact me at [kirtisingh1497@gmail.com](mailto:kirtisingh1497@gmail.com)
