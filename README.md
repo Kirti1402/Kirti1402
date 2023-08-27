@@ -1,15 +1,21 @@
-Hi 👋 My name is Kirti Singh
-============================
+<h1 align="center">Hi 👋, I'm Kirti Singh</h1>
+<h3 align="center">Test Engineer @ Accenture | Aspiring Front-End Developer</h3>
 
-Test Automation Engineer
----------------------
+<p align="left"> <a href="https://twitter.com/_kirtisingh_" target="blank"><img src="https://img.shields.io/twitter/follow/_kirtisingh_?logo=twitter&style=for-the-badge" alt="_kirtisingh_" /></a> </p>
 
-Passionate Test Engineer at Accenture actively pursuing a transition into Front-End Development. Committed to expanding my skill set and knowledge in web development through the neoG bootcamp. Strong experience in testing methodologies, quality assurance, and collaborating with cross-functional teams. Excited about combining my testing expertise with emerging front-end technologies to create seamless and user-centric web experiences. Eager to contribute to innovative projects and join a dynamic team where I can continuously grow as a Front-End Developer.
+- 🌱 I’m currently learning **HTML5, CSS , React JS, JavaScript, Redux**
 
-* 🌍  I'm based in Bangalore, India
-* ✉️  You can contact me at [kirtisingh1497@gmail.com](mailto:kirtisingh1497@gmail.com)
-* 🧠  I'm learning HTML5, CSS, JavaScript, and React
+- 📫 How to reach me **kirtisingh1497@gmail.com**
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kirti1402&theme=dracula)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kirti1402&theme=dracula)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kirti1402&theme=dracula&utcOffset=8)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/_kirtisingh_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_kirtisingh_" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/kirti2714/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kirti2714/" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kirti1402&show_icons=true&locale=en&layout=compact" alt="kirti1402" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kirti1402&" alt="kirti1402" /></p>
