@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kirti Singh</h1>
-<h3 align="center">Test Engineer @ Accenture | Aspiring Front-End Developer</h3>
+<h3 align="center">Test Engineer @ Accenture
 
 <p align="left"> <a href="https://twitter.com/_kirtisingh_" target="blank"><img src="https://img.shields.io/twitter/follow/_kirtisingh_?logo=twitter&style=for-the-badge" alt="_kirtisingh_" /></a> </p>
 
