@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://twitter.com/_kirtisingh_" target="blank"><img src="https://img.shields.io/twitter/follow/_kirtisingh_?logo=twitter&style=for-the-badge" alt="_kirtisingh_" /></a> </p>
 
-- 🌱 I’m currently learning **HTML5, CSS , React JS, JavaScript, Redux**
-
 - 📫 How to reach me **kirtisingh1497@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
